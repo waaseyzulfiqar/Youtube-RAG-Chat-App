@@ -1,0 +1,7 @@
+streamlit
+youtube-transcript-api
+sentence-transformers
+faiss-cpu
+langchain-text-splitters
+huggingface_hub
+python-dotenv
